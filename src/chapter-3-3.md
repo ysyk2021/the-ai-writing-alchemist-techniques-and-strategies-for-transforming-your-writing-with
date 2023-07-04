@@ -1,4 +1,4 @@
-Benefits of AI in Writing - Increased Productivity and Creativity
+Increased Productivity and Creativity
 ============================================================================
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education, providing personalized feedback and instruction to students. In addition to improving style and tone, AI-powered writing tools can also increase productivity and creativity. In this chapter, we will explore how these tools can help students become more efficient and innovative writers.

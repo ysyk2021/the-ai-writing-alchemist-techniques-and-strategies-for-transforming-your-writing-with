@@ -1,4 +1,4 @@
-Implementing AI in Writing - Overcoming Resistance to Change
+Overcoming Resistance to Change
 =======================================================================
 
 When implementing AI-powered writing tools, it is not uncommon to encounter resistance from some individuals. This resistance may stem from concerns about the effectiveness of the tools, a lack of familiarity with AI technology, or other factors. In this chapter, we will explore strategies for overcoming resistance to change when implementing AI in writing.

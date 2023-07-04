@@ -1,4 +1,4 @@
-Implementing AI in Writing - Developing an AI Strategy
+Developing an AI Strategy
 =================================================================
 
 Implementing AI-powered writing tools can transform the way we approach writing education, providing personalized feedback and instruction to students and professionals. However, before implementing these tools, it is important to develop a clear strategy for their use. In this chapter, we will explore how to develop an AI strategy for writing.

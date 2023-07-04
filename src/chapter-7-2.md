@@ -1,4 +1,4 @@
-Managing AI in Writing - Ensuring Transparency and Accountability
+Ensuring Transparency and Accountability
 ============================================================================
 
 As AI-powered writing tools become more widely adopted, it is important to ensure that these tools are used responsibly and ethically. This involves ensuring transparency and accountability in the use of AI in writing. In this chapter, we will explore strategies for managing AI in writing and ensuring transparency and accountability.

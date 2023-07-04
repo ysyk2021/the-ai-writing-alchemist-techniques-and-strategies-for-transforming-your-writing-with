@@ -1,4 +1,4 @@
-Applications of AI in Writing - Style Analyzers
+Style Analyzers
 ==========================================================
 
 Another application of AI in writing is style analysis. AI-powered style analyzers can be used to analyze written content and provide feedback on factors such as tone, readability, and style. In this chapter, we will explore the benefits and challenges of using AI for style analysis, as well as strategies for leveraging this technology effectively.

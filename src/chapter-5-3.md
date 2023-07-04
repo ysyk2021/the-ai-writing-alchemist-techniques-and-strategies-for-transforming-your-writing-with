@@ -1,4 +1,4 @@
-Applications of AI in Writing - Content Generators
+Content Generators
 =============================================================
 
 One of the most exciting applications of AI in writing is content generation. AI-powered writing tools can be used to automatically generate written content, ranging from simple product descriptions to complex articles and reports. In this chapter, we will explore the benefits and challenges of using AI for content generation, as well as strategies for leveraging this technology effectively.

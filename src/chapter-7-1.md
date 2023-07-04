@@ -1,4 +1,4 @@
-Managing AI in Writing - Data Management
+Data Management
 ===================================================
 
 Effective data management is crucial for the responsible and ethical use of AI-powered writing tools. In this chapter, we will explore strategies for managing data in AI-powered writing, including collecting, storing, and analyzing data.
