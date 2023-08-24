@@ -1,5 +1,3 @@
-Chapter 8: Future of AI in Writing
-==================================
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education, providing personalized feedback and instruction to students. As these technologies continue to evolve, it is important for educators and institutions to stay up-to-date with emerging trends and prepare for the future. In this chapter, we will explore the future of AI in writing education.
 

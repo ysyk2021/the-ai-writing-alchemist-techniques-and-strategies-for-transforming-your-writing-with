@@ -1,5 +1,3 @@
-Improved Style and Tone
-==============================================================
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education, providing personalized feedback and instruction to students. One of the key benefits of AI in writing is its ability to improve style and tone. In this chapter, we will explore how AI-powered writing tools can help students develop their own unique writing style and tone.
 

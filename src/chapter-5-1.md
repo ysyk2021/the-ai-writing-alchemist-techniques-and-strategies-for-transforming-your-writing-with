@@ -1,5 +1,3 @@
-Grammar and Spelling Checkers
-========================================================================
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education, providing personalized feedback and instruction to students. One of the most common applications of AI in writing education is grammar and spelling checkers. In this chapter, we will explore the use of AI-powered grammar and spelling checkers in writing education.
 

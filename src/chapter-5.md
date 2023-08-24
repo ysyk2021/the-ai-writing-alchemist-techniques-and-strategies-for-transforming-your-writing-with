@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Writing
-========================================
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education, providing personalized feedback and instruction to students. In this chapter, we will explore some of the applications of AI in writing education.
 

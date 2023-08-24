@@ -1,5 +1,3 @@
-Addressing Potential Bias
-=============================================================
 
 As with any technology, there is the potential for bias in AI-powered writing tools. This can be particularly concerning when it comes to writing, where biases may have a significant impact on the assessment of written work. In this chapter, we will explore strategies for managing potential bias in AI-powered writing tools.
 

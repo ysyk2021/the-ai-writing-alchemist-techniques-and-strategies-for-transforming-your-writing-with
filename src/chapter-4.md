@@ -1,5 +1,3 @@
-Chapter 4: Challenges of AI in Writing
-======================================
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education, providing personalized feedback and instruction to students. However, the use of these technologies also presents several challenges. In this chapter, we will explore some of the challenges related to implementing AI-powered writing tools.
 

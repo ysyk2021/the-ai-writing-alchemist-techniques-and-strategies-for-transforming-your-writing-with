@@ -1,5 +1,3 @@
-Types of AI in Writing
-===============================================================
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education, providing personalized feedback and instruction to students. In this chapter, we will explore the different types of AI used in writing.
 

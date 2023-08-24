@@ -1,5 +1,3 @@
-Overview of the Book
-==============================================
 
 Writing is an essential skill that is required in both academic and professional settings. However, many students and professionals struggle to develop strong writing skills due to a lack of personalized feedback and instruction. Artificial intelligence (AI) and machine learning have the potential to transform writing education by providing personalized feedback and instruction to individuals.
 

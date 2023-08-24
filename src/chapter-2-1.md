@@ -1,5 +1,3 @@
-Historical Overview of AI in Writing
-=============================================================================
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education, providing personalized feedback and instruction to students. However, the history of AI in writing dates back several decades. In this chapter, we will provide a historical overview of AI in writing.
 

@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Writing
-=================================
 
 Effective management of AI-powered writing tools is critical for ensuring their responsible and ethical use. In this chapter, we will explore strategies for managing AI in writing, including data management, ensuring transparency and accountability, and addressing potential bias.
 
